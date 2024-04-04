@@ -1,3 +1,5 @@
+#HELLO WORLD Aiperi Imashova
+
 terraform {
   backend "gcs" {
     bucket = "beki-my-bucket-for-circleci"
